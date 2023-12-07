@@ -11,13 +11,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-
-
 <h1 align="center">I'm Yasser</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <div align="center">

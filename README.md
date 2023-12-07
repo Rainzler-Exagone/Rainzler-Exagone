@@ -16,10 +16,12 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<h1 align="center">Hi 👋, I'm Yasser</h1>
+<h1 align="center">I'm Yasser</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 📫 How to reach me **Yasseraimeur0@gmail.com**
 

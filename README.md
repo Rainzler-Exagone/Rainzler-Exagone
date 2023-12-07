@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+  <p >
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasser-aimeur-383930226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasser-aimeur-383930226/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yasser11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yasser11" height="30" width="40" /></a>
+</p>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,10 +22,7 @@
 </h1>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasser-aimeur-383930226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasser-aimeur-383930226/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yasser11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yasser11" height="30" width="40" /></a>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Yasser</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>

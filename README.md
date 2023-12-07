@@ -16,9 +16,11 @@
 </div>
 
 <h1 align="center">I'm Yasser</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A Passionate Web Developer from Algeria</h3>
 
+- :seedling: Exploring Technical Content Writing.
 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me **Yasseraimeur0@gmail.com**
 
 - ⚡ Fun fact **I guess I'm funny**

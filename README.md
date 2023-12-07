@@ -13,9 +13,7 @@
 </div>
 <h1 align="center">I'm Yasser</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
-<div align="center">
-  <img src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="600" height="300" "></img>
-</div>
+
 
 - 📫 How to reach me **Yasseraimeur0@gmail.com**
 

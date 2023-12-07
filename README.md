@@ -5,11 +5,6 @@
 <h1 align="center">Hi 👋, I'm Yasser</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-- 🔭 I’m currently working on [ThreeJS project](https://vercel.com/rainzler-exagone/three-js)
-
-- 🌱 I’m currently learning **Prisma**
-
-- 💬 Ask me about **react,gsap,NextJS,TailwindCSS**
 
 - 📫 How to reach me **Yasseraimeur0@gmail.com**
 

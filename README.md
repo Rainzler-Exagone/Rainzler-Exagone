@@ -142,9 +142,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Rainzler-Exagone&theme=dark&background=000000" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rainzler-Exagone&theme=algolia&no-frills=true&row=1&column=6" />
-</div>
 
 
 <br/>

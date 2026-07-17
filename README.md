@@ -82,18 +82,12 @@
 
 ### 🔥 Live Stats
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rainzler-Exagone&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainzler-Exagone&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</div>
+
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Rainzler-Exagone&theme=dark&background=000000" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rainzler-Exagone&theme=algolia&no-frills=true&row=1&column=6" />
-</div>
 
 ### 🐍 Contribution Snake
 
@@ -105,4 +99,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.postimg.cc/ncJ7vwqH/footer.gif"/></a>
 </div>
